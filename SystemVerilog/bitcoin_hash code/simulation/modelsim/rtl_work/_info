@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dL:/ECE111/Final_ECE111/bitcoin_hash/simulation/modelsim
+vbitcoin_hash
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1670508225
+!i10b 1
+!s100 0QkJf^DASjXDl<5:>VTCd1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@Mkbo_De]aTSJZkaH>XK^0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1670506470
+8L:/ECE111/Final_ECE111/bitcoin_hash/bitcoin_hash.sv
+FL:/ECE111/Final_ECE111/bitcoin_hash/bitcoin_hash.sv
+!i122 2
+L0 3 551
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1670508224.000000
+!s107 L:/ECE111/Final_ECE111/bitcoin_hash/bitcoin_hash.sv|
+!s90 -reportprogress|300|-work|work|L:/ECE111/Final_ECE111/bitcoin_hash/bitcoin_hash.sv|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vsimplified_sha256
+R1
+R2
+!i10b 1
+!s100 9j64zSTUhRkb<IF>RL>H00
+R3
+IUQ4ko6IY>Y^k1zaV_70fN0
+R4
+S1
+R0
+w1670444948
+8L:/ECE111/Final_ECE111/bitcoin_hash/simplified_sha256.sv
+FL:/ECE111/Final_ECE111/bitcoin_hash/simplified_sha256.sv
+!i122 3
+L0 2 277
+R5
+r1
+!s85 0
+31
+Z8 !s108 1670508225.000000
+!s107 L:/ECE111/Final_ECE111/bitcoin_hash/simplified_sha256.sv|
+!s90 -reportprogress|300|-work|work|L:/ECE111/Final_ECE111/bitcoin_hash/simplified_sha256.sv|
+!i113 1
+R6
+R7
+vtb_bitcoin_hash
+R1
+R2
+!i10b 1
+!s100 11FSdX@oLW>7WLYk[h<Rm0
+R3
+IBAi7hcXncAMYkeJSRFZ[^2
+R4
+S1
+R0
+w1669941934
+8L:/ECE111/Final_ECE111/bitcoin_hash/tb_bitcoin_hash.sv
+FL:/ECE111/Final_ECE111/bitcoin_hash/tb_bitcoin_hash.sv
+!i122 4
+L0 1 355
+R5
+r1
+!s85 0
+31
+R8
+!s107 L:/ECE111/Final_ECE111/bitcoin_hash/tb_bitcoin_hash.sv|
+!s90 -reportprogress|300|-work|work|L:/ECE111/Final_ECE111/bitcoin_hash/tb_bitcoin_hash.sv|
+!i113 1
+R6
+R7

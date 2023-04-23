@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dL:/ECE111/Final_ECE111/simplified_sha256/simulation/modelsim
+vsimplified_sha256
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1670505035
+!i10b 1
+!s100 elH998R?4ncblM40UDV[F0
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IM>06LLkBPKQIgU:ECbK6Z3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1670503096
+8L:/ECE111/Final_ECE111/simplified_sha256/simplified_sha256.sv
+FL:/ECE111/Final_ECE111/simplified_sha256/simplified_sha256.sv
+!i122 1
+L0 1 362
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1670505035.000000
+!s107 L:/ECE111/Final_ECE111/simplified_sha256/simplified_sha256.sv|
+!s90 -reportprogress|300|-work|work|L:/ECE111/Final_ECE111/simplified_sha256/simplified_sha256.sv|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vtb_simplified_sha256_30w
+R1
+R2
+!i10b 1
+!s100 ;WPd0_mFo3WLO@bnoXzEi0
+R3
+I5cizWVJRRMQ5n0dJ>nJDU1
+R4
+S1
+R0
+w1670503523
+8L:/ECE111/Final_ECE111/simplified_sha256/tb_simplified_sha256_30w.sv
+FL:/ECE111/Final_ECE111/simplified_sha256/tb_simplified_sha256_30w.sv
+!i122 2
+Z9 L0 1 257
+R5
+r1
+!s85 0
+31
+R6
+!s107 L:/ECE111/Final_ECE111/simplified_sha256/tb_simplified_sha256_30w.sv|
+!s90 -reportprogress|300|-work|work|L:/ECE111/Final_ECE111/simplified_sha256/tb_simplified_sha256_30w.sv|
+!i113 1
+R7
+R8
+vtb_simplified_sha256_40w
+R1
+R2
+!i10b 1
+!s100 o`U_zinfA0^SR7`0AY6?h0
+R3
+I2]Q]Q5J01:@7^WhkGV1b>3
+R4
+S1
+R0
+w1670351675
+8L:/ECE111/Final_ECE111/simplified_sha256/tb_simplified_sha256_40w.sv
+FL:/ECE111/Final_ECE111/simplified_sha256/tb_simplified_sha256_40w.sv
+!i122 3
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 L:/ECE111/Final_ECE111/simplified_sha256/tb_simplified_sha256_40w.sv|
+!s90 -reportprogress|300|-work|work|L:/ECE111/Final_ECE111/simplified_sha256/tb_simplified_sha256_40w.sv|
+!i113 1
+R7
+R8

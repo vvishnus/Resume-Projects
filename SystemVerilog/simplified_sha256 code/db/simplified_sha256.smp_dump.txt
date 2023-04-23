@@ -1,0 +1,10 @@
+
+State Machine - |simplified_sha256|state
+Name state.WRITE state.WRITE_BUFFER state.COMPUTE state.BLOCK state.READ_MSG state.READ_BUFFER state.IDLE 
+state.IDLE 0 0 0 0 0 0 0 
+state.READ_BUFFER 0 0 0 0 0 1 1 
+state.READ_MSG 0 0 0 0 1 0 1 
+state.BLOCK 0 0 0 1 0 0 1 
+state.COMPUTE 0 0 1 0 0 0 1 
+state.WRITE_BUFFER 0 1 0 0 0 0 1 
+state.WRITE 1 0 0 0 0 0 1 
