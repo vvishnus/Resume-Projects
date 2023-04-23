@@ -1,1 +1,0 @@
-Info (10281): Verilog HDL Declaration information at simplified_sha256.sv(7): object "done" differs only in case from object "DONE" in the same scope File: L:/ECE111/Final_ECE111/bitcoin_hash/simplified_sha256.sv Line: 7
