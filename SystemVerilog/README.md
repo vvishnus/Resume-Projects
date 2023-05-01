@@ -51,5 +51,7 @@ We then allow the 15 instances of sha256 to calculate the new hashes h1[8] to h1
 * __FMax__
 ![fmax](readme_assets/fmax.png)
 
+# SUMMARY
 
+![SU](readme_assets/summar.png)
 
