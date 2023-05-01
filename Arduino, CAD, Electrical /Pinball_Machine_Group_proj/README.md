@@ -7,7 +7,9 @@ Team Members:
 1. Veeraj Vishnu
 2. Nghi Lu
 3. Christian Hendrick
+
 ## Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TFqE97IneUA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Functionality Goals
 
@@ -29,8 +31,30 @@ Team Members:
 ...* Integration of electric motors, solenoids, and RC servos.
 ...* Automated gating mechanism for ball handling between rounds.
 
+## CAD Assembly and Circuit schematics
+### Solidworks CAD Assembly:
+![machine_assembly](readme_assets/machine_assembly.png)
+
+### 7 segment circuit:
+![seven_segment](readme_assets/seven_segment.png)
+
+### IR sensor basic circuit:
+![IR_sensor](readme_assets/IR_sensor.png)
+
+
+## CIRCUIT INTEGRATION AND EXECUTION
+### Overall Wiring Situation:
+![final_wiring](readme_assets/final_wiring.png)
+
+### Flipper Solenoid Circuit:
+![solenoid](readme_assets/solenoid.png)
+
+### IR and 7 Segment Display Circuit:
+![seven_IR](readme_assets/seven_IR.png)
+
+
 ## Final Trace Matrix
-• Final trace matrix 
+
 | Spec. Number | Spec. Description                   |       Test to perform                   | Measured values |
 |--------------|-------------------------------------|:---------------------------------------:|-----------------|
 | 1            | Paddle propels ball across playfield | Test flipper strength and range         | The flippers work better than expected. The ball reaches the far end of the target |
