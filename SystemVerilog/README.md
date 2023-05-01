@@ -15,11 +15,17 @@ My implementation uses **sequential logic** through only one always_ff block and
 
 ### WAVEFORM AND DELIVERABLES FOR 40 WORD INPUT
 * __Waveform__
+![40w_wave](readme_assets/40w_wave.png)
 * __Testbench Results__
+![40w_trans](readme_assets/40w_trans.png)
 ### RESOURCE UTILISATION
 * __Regiters/ ALUT’s__
+![40w_alut](readme_assets/40w_alut.png)
 * __Flow Summary__
+![40w_flow](readme_assets/40w_flow.png)
 * __FMax__
+![40w_fmax](readme_assets/40w_fmax.png)
+
 
 
 ## PART 2: BITCOIN HASH 
@@ -33,10 +39,17 @@ We then allow the 15 instances of sha256 to calculate the new hashes h1[8] to h1
 
 ### WAVEFORM AND DELIVERABLES
 * __Waveform__
+![wave](readme_assets/wave.png)
+
 * __Testbench Results__
+![trans](readme_assets/trans.png)
 ### RESOURCE UTILISATION
 * __Regiters/ ALUT’s__
+![alut](readme_assets/alut.png)
 * __Flow Summary__
+![flow](readme_assets/flow.png)
 * __FMax__
+![fmax](readme_assets/fmax.png)
+
 
 
