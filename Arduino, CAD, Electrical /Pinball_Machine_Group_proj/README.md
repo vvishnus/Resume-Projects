@@ -31,13 +31,13 @@ Team Members:
 
 ## Final Trace Matrix
 • Final trace matrix 
-| Spec. Number | Spec. Description                   | Test to perform             | Measured values |
-|--------------|-------------------------------------|-----------------------------|-----------------|
-| 1            | Paddle propels ball across playfield | Testing the flippers        | The flippers work better than expected. The ball reach far end to the target |
-| 2            | Ball introduced via plunger         | Start game button is installed | The plunger worked as expected |
-| 3            | Multiple scoring mechanisms (2 IR sensors) | Testing the sensor          | Current score and current factor will increase as designed |
-| 4            | Seven-segment display for score tracking | 7 segment testing           | The score is going up as expected and the buzzer goes off every time. Also, when it reaches 99, the buzzer will go off all the way |
-| 5            | Piezo detects round loss and resets score | Testing reset feature     | Player will have to push the flat buzzer which is covered by a black octopus to reset the point to 0 (meaning you lost the game, play again) |
-| 6            | Start/stop button for system control | Start/stop button           | We placed the on/off button on the side of the machine - works as expected |
-| 7            | Game resets on system start and round completion | This feature is included in feature 5 | When the player presses the flat buzzer, the sensor gat will be opened, and the ball will enter the play field again |
-| 8            | Ball gravitates towards paddles     | Place pinball on 10 random spots of the playfield | The pinball always moves towards the flippers |
+| Spec. Number | Spec. Description                   |       Test to perform                   | Measured values |
+|--------------|-------------------------------------|:---------------------------------------:|-----------------|
+| 1            | Paddle propels ball across playfield | Test flipper strength and range         | The flippers work better than expected. The ball reaches the far end of the target |
+| 2            | Ball introduced via plunger         | Test plunger functionality and force    | The plunger worked as expected |
+| 3            | Multiple scoring mechanisms (2 IR sensors) | Test sensor accuracy and response time  | Current score and current factor increase as designed |
+| 4            | Seven-segment display for score tracking | Test display functionality and accuracy | The score is going up as expected and the buzzer goes off every time. Also, when it reaches 99, the buzzer will go off all the way |
+| 5            | Piezo detects round loss and resets score | Test piezo sensitivity and reset feature | Player will have to push the flat buzzer, which is covered by a black octopus, to reset the point to 0 (meaning you lost the game, play again) |
+| 6            | Start/stop button for system control | Test button functionality and wiring     | We placed the on/off button on the side of the machine |
+| 7            | Game resets on system start and round completion | Test game reset conditions and timing    | When the player presses the flat buzzer, the sensor gate will be opened, and the ball will enter the playfield again |
+| 8            | Ball gravitates towards paddles     | Test ball movement and playfield design  | The pinball always moves towards the flippers |
