@@ -9,6 +9,9 @@ Team Members:
 3. Christian Hendrick
 
 ## Demo
+__Please click to watch demo:__
+
+
 [![Alt text](https://img.youtube.com/vi/TFqE97IneUA/0.jpg)](https://www.youtube.com/shorts/TFqE97IneUA)
 
 
